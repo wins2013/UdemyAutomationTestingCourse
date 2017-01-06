@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverWrapper", "WebDriverWrapper\WebDriverWrapper.csproj", "{8FD81EFA-D653-4AAC-98EF-DDD3D6A4AB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyAutomationProject", "UdemyAutomationProject\UdemyAutomationProject.csproj", "{67C5BB07-2813-4639-99F2-D6A67EFBEBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD81EFA-D653-4AAC-98EF-DDD3D6A4AB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD81EFA-D653-4AAC-98EF-DDD3D6A4AB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD81EFA-D653-4AAC-98EF-DDD3D6A4AB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD81EFA-D653-4AAC-98EF-DDD3D6A4AB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C5BB07-2813-4639-99F2-D6A67EFBEBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C5BB07-2813-4639-99F2-D6A67EFBEBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C5BB07-2813-4639-99F2-D6A67EFBEBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C5BB07-2813-4639-99F2-D6A67EFBEBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
